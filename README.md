@@ -1,7 +1,7 @@
 # portfolio
 # Hi, I'm Sanju! 👋
 
-**AI & ML enthusiast | Data Scientist in the making | State-Level Chess Player**
+**AI & ML enthusiast | Data Scientist in the making**
 
 ---
 
