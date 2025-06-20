@@ -61,18 +61,10 @@ Developed a collaborative filtering-based movie recommender using cosine similar
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=82sanju&show_icons=true&theme=radical" alt="Sanju's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=82sanju&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=82sanju&theme=radical" alt="GitHub Streak" />
-</p>
 
 ## 🏅 Certifications & Online Profiles
 
-- 🧠 [HackerRank Profile](https://www.hackerrank.com/profile/sspreetham35)
+- 🧠 [HackerRank Profile](https://www.hackerrank.com/profile/28sanju)
 
 
 
