@@ -30,6 +30,15 @@ Real-time face mask detection system utilizing OpenCV and CNN to identify mask u
 #### ✈️ Flight Ticket Booking Management System
 Backend solution for managing flight bookings, cancellations, and passenger records using SQL and Java.
 
+#### 🧠 Mental Health Chatbot (Prototype)
+Built a basic rule-based chatbot using Python and NLP libraries to simulate mental health conversations and provide support or resources to users in need.
+
+#### 📦 Sales Prediction using Linear Regression
+Trained a linear regression model on a retail dataset to forecast monthly sales figures, using pandas, seaborn for EDA, and scikit-learn for model building.
+
+#### 🎥 Movie Recommendation System
+Developed a collaborative filtering-based movie recommender using cosine similarity.
+
 ---
 
 ### 🏆 Achievements & Interests
@@ -38,6 +47,10 @@ Backend solution for managing flight bookings, cancellations, and passenger reco
 - 📊 **Team Lead for a Machine Learning Society**
 - 🤖 **Loves working on ML projects that solve real-world problems**
 - 🎯 **Interested in automating and optimizing tasks with Python**
+- 📚 **Passionate about reading AI research papers and simplifying complex ML concepts**
+- 🛠️ **Loves building mini-projects that combine Python + automation + analytics**
+
+
 
 ---
 
