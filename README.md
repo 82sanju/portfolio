@@ -70,6 +70,13 @@ Developed a collaborative filtering-based movie recommender using cosine similar
   <img src="https://streak-stats.demolab.com/?user=82sanju&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 🏅 Certifications & Online Profiles
+
+- 🧠 [HackerRank Profile](https://www.hackerrank.com/profile/sspreetham35)
+
+
+
+
 ---
 
 _Always excited to collaborate on innovative projects and connect with fellow tech enthusiasts!_
